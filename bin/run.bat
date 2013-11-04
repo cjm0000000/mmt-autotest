@@ -1,0 +1,1 @@
+cucumber features --format html --out ./results/output.html
